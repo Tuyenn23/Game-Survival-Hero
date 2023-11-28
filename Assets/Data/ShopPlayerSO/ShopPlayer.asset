@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8744e31ce0593dc42b9c9733c44e7619, type: 3}
+  m_Name: ShopPlayer
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 2656b669eeb85ba4a82ebdbcf734e66a, type: 3}
+    - {fileID: 21300000, guid: aada9a39f677f204792f3f2e25f1d8bf, type: 3}
+    - {fileID: 21300000, guid: 15638de5037c2e949b1440cc183de682, type: 3}
+    - {fileID: 21300000, guid: 6d62dea1e26a5504ba2bbf6a61b47856, type: 3}
+    - {fileID: 21300000, guid: e5a0e074273ea5a44b78790b86713194, type: 3}
+    - {fileID: 21300000, guid: caded70eacb4f42438de720984a600a9, type: 3}
+    - {fileID: 21300000, guid: 6e3bbe1113309ec49a88a08e124eb9ba, type: 3}
+    - {fileID: 21300000, guid: 00f034d24d5c3c448a848dfa89c421ac, type: 3}
+    - {fileID: 21300000, guid: d266e64356bd88b4b97cb58380320f71, type: 3}
+    - {fileID: 21300000, guid: 9b5ff6f91a173ff4daa620959bd77f0b, type: 3}
+    - {fileID: 21300000, guid: 92700ea989cba604da6edad4c989f8f8, type: 3}
+    - {fileID: 21300000, guid: 7c5aa2969d1fffe4d87f70c402cdc9ad, type: 3}
+    - {fileID: 21300000, guid: 1461ad0f28c1fd04082b9e86925d1cfc, type: 3}
+    - {fileID: 21300000, guid: bbea7b798713a034e969f9103beec6b2, type: 3}
+    - {fileID: 21300000, guid: 48b574d6c542272409ed2e85db84d9ae, type: 3}
+    - {fileID: 21300000, guid: a28e822286ac1544a9fa6ff27f233595, type: 3}
+    - {fileID: 21300000, guid: 4503b9dc5d64f254ebde743ae54d4c88, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: L_PlayerShop
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[TypePlayer, Assembly-CSharp],[System.Collections.Generic.List`1[[SHOPPLAYER,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[TypePlayer, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[SHOPPLAYER, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 3|SHOPPLAYER, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: TypeUnlock
+      Entry: 3
+      Data: 1
+    - Name: Icon
+      Entry: 10
+      Data: 0
+    - Name: Model
+      Entry: 10
+      Data: 1
+    - Name: img_typeUnlock
+      Entry: 10
+      Data: 2
+    - Name: Ultimate
+      Entry: 10
+      Data: 3
+    - Name: Price
+      Entry: 3
+      Data: 500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|SHOPPLAYER, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 2
+    - Name: TypeUnlock
+      Entry: 3
+      Data: 1
+    - Name: Icon
+      Entry: 10
+      Data: 4
+    - Name: Model
+      Entry: 10
+      Data: 5
+    - Name: img_typeUnlock
+      Entry: 10
+      Data: 2
+    - Name: Ultimate
+      Entry: 10
+      Data: 6
+    - Name: Price
+      Entry: 3
+      Data: 1000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|SHOPPLAYER, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 3
+    - Name: TypeUnlock
+      Entry: 3
+      Data: 2
+    - Name: Icon
+      Entry: 10
+      Data: 7
+    - Name: Model
+      Entry: 10
+      Data: 8
+    - Name: img_typeUnlock
+      Entry: 10
+      Data: 9
+    - Name: Ultimate
+      Entry: 10
+      Data: 10
+    - Name: Price
+      Entry: 3
+      Data: 200
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|SHOPPLAYER, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 4
+    - Name: TypeUnlock
+      Entry: 3
+      Data: 1
+    - Name: Icon
+      Entry: 10
+      Data: 11
+    - Name: Model
+      Entry: 10
+      Data: 12
+    - Name: img_typeUnlock
+      Entry: 10
+      Data: 2
+    - Name: Ultimate
+      Entry: 10
+      Data: 13
+    - Name: Price
+      Entry: 3
+      Data: 1500
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|SHOPPLAYER, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 5
+    - Name: TypeUnlock
+      Entry: 3
+      Data: 1
+    - Name: Icon
+      Entry: 10
+      Data: 14
+    - Name: Model
+      Entry: 10
+      Data: 15
+    - Name: img_typeUnlock
+      Entry: 10
+      Data: 2
+    - Name: Ultimate
+      Entry: 10
+      Data: 16
+    - Name: Price
+      Entry: 3
+      Data: 2000
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

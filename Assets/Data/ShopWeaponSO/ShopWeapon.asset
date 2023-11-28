@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7fad766e9aed1a439165768b27a3669, type: 3}
+  m_Name: ShopWeapon
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 48ea6ac14ff232749b87e70c6f519418, type: 3}
+    - {fileID: 21300000, guid: 811bb1e256a018e49b073f7aa546c3c3, type: 3}
+    - {fileID: 21300000, guid: 152a2420b3673e940903197235a1df33, type: 3}
+    - {fileID: 21300000, guid: 17b81e99a5d9267488ba81ba7f78e4c5, type: 3}
+    - {fileID: 21300000, guid: 15638de5037c2e949b1440cc183de682, type: 3}
+    - {fileID: 21300000, guid: 9b5ff6f91a173ff4daa620959bd77f0b, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: L_Weapon
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[TypeWeapon, Assembly-CSharp],[System.Collections.Generic.List`1[[SHOPWEAPON,
+        Assembly-CSharp]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[TypeWeapon, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[SHOPWEAPON, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 3|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: Shuriken
+    - Name: Img
+      Entry: 10
+      Data: 0
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 2
+    - Name: Name
+      Entry: 1
+      Data: Gun
+    - Name: Img
+      Entry: 10
+      Data: 1
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 5|System.Collections.Generic.List`1[[SHOPWEAPON, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 6|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: "Bomb \u0110i\u1EC7n"
+    - Name: Img
+      Entry: 10
+      Data: 2
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 7|System.Collections.Generic.List`1[[SHOPWEAPON, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 8|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: "T\u0103ng M\xE1u"
+    - Name: Img
+      Entry: 10
+      Data: 3
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 9|System.Collections.Generic.List`1[[SHOPWEAPON, Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 10|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: Gold
+    - Name: Img
+      Entry: 10
+      Data: 4
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 11|System.Collections.Generic.List`1[[SHOPWEAPON, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 12|SHOPWEAPON, Assembly-CSharp
+    - Name: Id
+      Entry: 3
+      Data: 1
+    - Name: Name
+      Entry: 1
+      Data: Diamond
+    - Name: Img
+      Entry: 10
+      Data: 5
+    - Name: Rate
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
